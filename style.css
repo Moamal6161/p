@@ -28,7 +28,7 @@ body{
 }
 #article1{
     background-image: linear-gradient(to right, cyan, rgb(255, 105, 255));
-    height: 900px;
+    height: 1000px;
     width: 50%;
     border: 3px solid white;
     position: absolute; top: 560px; left: 25%;
@@ -48,7 +48,7 @@ body{
     position: absolute; top: -25px; left: 49%;
 }
 #IL{
-    position: absolute; left: 45%; top: 1500px;
+    position: absolute; left: 45%; top: 1700px;
 }
 #darkmode{
     position:fixed; left: 11%; top:10px;
